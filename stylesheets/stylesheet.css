@@ -5,7 +5,7 @@ body {
   background-repeat:no-repeat;
   background-size:cover;
   color: #d80f16;
-  font: 32px;
+  font: 64px;
   line-height: 1.5;
   font-family: Courier;
   text-align: center;
@@ -42,7 +42,7 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   /*border-bottom: 1px dashed #b5e853;*/
-  padding: 100px 0;
+  padding: 160px 0;
   margin: 0 0 40px 0;
 }
 
