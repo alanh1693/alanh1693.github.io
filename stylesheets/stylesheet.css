@@ -2,6 +2,8 @@ body {
   margin: 0;
   padding: 0;
   background: #151515 url("../images/ghostboybackground.jpg") 0 0;
+  background-repeat:no-repeat;
+  background-size:auto
   color: #eaeaea;
   font: 16px;
   line-height: 1.5;
