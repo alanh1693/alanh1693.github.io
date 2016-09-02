@@ -7,17 +7,17 @@ body {
   color: #d80f16;
   font: 16px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Courier;
 }
 
 /* General & 'Reset' Stuff */
 
-.container {
+/*.container {
   width: 90%;
   max-width: 600px;
   margin: 0 auto;
 }
-
+*/
 section {
   display: block;
   margin: 0 0 20px 0;
