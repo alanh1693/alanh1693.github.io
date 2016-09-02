@@ -2,8 +2,6 @@ body {
   margin: 0;
   padding: 0;
   background: #151515;
-  background-repeat:no-repeat;
-  background-size:cover;
   color: #d80f16;
   font: 64px;
   line-height: 1.5;
@@ -61,6 +59,9 @@ header h1 {
 }
 .container {
   background: url("../images/ghostboybackground.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  padding: 20px 40px 20px 40px;
 }
 header h1:before {
   content: "./ ";
