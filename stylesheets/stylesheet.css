@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/ghostboybackground.jpg") 0 0;
+  background: #151515;
   background-repeat:no-repeat;
   background-size:cover;
   color: #d80f16;
@@ -59,7 +59,9 @@ header h1 {
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
-
+.container {
+  background: url("../images/ghostboybackground.jpg");
+}
 header h1:before {
   content: "./ ";
   font-size: 24px;
