@@ -60,7 +60,7 @@ header h1 {
   background-repeat:no-repeat;
   background-size:cover;
   padding: 708px 107px 642px 132px;
-  
+  margin: 0px 0px 0px 0px;
 }
 /* header h1:before {
   content: "./ ";
